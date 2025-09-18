@@ -30,6 +30,11 @@
                 SemanticProperties.Hint="Counts the number of times you click"
                 Clicked="OnCounterClicked"
                 HorizontalOptions="Fill" />
+            
+            <Entry 
+                Placeholder="Enter some text"
+                SemanticProperties.Hint="Lets you enter some text" />
+            
         </VerticalStackLayout>
     </ScrollView>
 
